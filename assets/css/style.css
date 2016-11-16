@@ -550,7 +550,8 @@ header {
   margin-top: 80px;
   height: 235px;
   padding-top: 91px;
-  background: url(http://placehold.it/1920x395) center center no-repeat;
+  background: url(../img/placeholders/universidad.jpg) center center no-repeat;
+  /* background: url(http://placehold.it/1920x395) center center no-repeat; */
 }
 .page-banner .section-name {
   position: relative;
@@ -998,7 +999,7 @@ form.comment-form.altered .field:last-child {
   position: relative;
   display: inline-block;
   margin: 0 20px;
-  padding-bottom: 29px;
+  padding-bottom: 49px; /*29px;*/
 }
 .navigation .menu-wrap .menu > li a,
 .navigation .menu-wrap .menu > li span {
